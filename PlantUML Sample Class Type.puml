@@ -4,12 +4,17 @@
 abstract class AbstractList
 abstract AbstractCollection
 interface List
-interface Collection
+interface Collection {
+    + publicAttribute
+    - privateAttribute
+    # protectedAttribue
+    Collect()
+    }
 
-List <|-- AbstractList
+List <-- AbstractList
 Collection <|-- AbstractCollection
 
-Collection <|- List
+Collection <- List
 AbstractCollection <|- AbstractList
 AbstractList <|-- ArrayList
 
@@ -23,5 +28,7 @@ DAYS
 HOURS
 MINUTES
 }
+
+TimeUnit <-right- List
 
 @enduml
