@@ -1,10 +1,18 @@
 @startuml
 'https://plantuml.com/class-diagram
 
-class Moi {
-    - inClassable
+class Moi() {
+    - unClassifiable
     # Thanks() : Kss
 }
+'True ! ( Weak bonded with Time Unit )
+"Moi()" -down-o TimeUnit
+' These work too (any combination)
+'Moi *-down-* TimeUnit
+'Moi -down-+ TimeUnit
+'Moi -down-# TimeUnit
+
+
 
 abstract class AbstractList {
     # AddSomeMethod() : Void
