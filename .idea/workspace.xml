@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="267ea0c0-153e-4a13-aac4-c50e177cf6de" name="Changes" comment="workspace twice... =&gt; in .gitignore..." />
+    <list default="true" id="267ea0c0-153e-4a13-aac4-c50e177cf6de" name="Changes" comment="workspace twice... =&gt; in .gitignore...">
+      <change afterPath="$PROJECT_DIR$/../PlantUML Sample &quot;Class&quot; type file/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlantUML Sample &quot;Class&quot; type file/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PlantUML Sample &quot;Class&quot; type file/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +55,7 @@
       <workItem from="1656667440245" duration="1390000" />
       <workItem from="1656670298159" duration="544000" />
       <workItem from="1656670863346" duration="526000" />
-      <workItem from="1656671415142" duration="2816000" />
+      <workItem from="1656671415142" duration="3378000" />
     </task>
     <task id="LOCAL-00001" summary="Directory renamed ( always complicated after... )">
       <created>1656673252461</created>
@@ -103,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656674376803</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="workspace twice... =&gt; in .gitignore...">
+      <created>1656675231094</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1656675231094</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
