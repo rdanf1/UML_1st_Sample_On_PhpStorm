@@ -1,8 +1,17 @@
 @startuml
 'https://plantuml.com/class-diagram
 
-abstract class AbstractList
-abstract AbstractCollection
+class Moi {
+    - inClassable
+    # Thanks() : Kss
+}
+
+abstract class AbstractList {
+    # AddSomeMethod() : Void
+}
+abstract AbstractCollection {
+    - addingWhyNotAttribute
+}
 interface List {
     - JumpitBool
     + Jump("Ouaf !") : void
@@ -13,6 +22,13 @@ interface Collection {
     # protectedAttribue
     Collect()
     }
+
+abstract ItemComponent {
+    - theme : Moi
+}
+
+' Bottom didn't work... (the rabbit)
+AbstractCollection *-Right- ItemComponent
 
 List <-- AbstractList
 Collection <|-- AbstractCollection
