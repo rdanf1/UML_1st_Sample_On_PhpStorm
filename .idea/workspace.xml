@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="267ea0c0-153e-4a13-aac4-c50e177cf6de" name="Changes" comment="Directory renamed ( always complicated after... )" />
+    <list default="true" id="267ea0c0-153e-4a13-aac4-c50e177cf6de" name="Changes" comment="Screenshot of install on fedora 35 for plantuml integration plugin to work properly ! (in Doc subdirectory )">
+      <change afterPath="$PROJECT_DIR$/../PlantUML Sample &quot;Class&quot; type file/doc/Install_Graphviz_Fed34_For_PhpStorm_PlantUML_plugin_to_work_2022-07-01_12-26-47.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlantUML Sample &quot;Class&quot; type file/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PlantUML Sample &quot;Class&quot; type file/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +38,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/rdanf0/PhpstormProjects/PlantUML Sample \"Class\" type file",
+    "last_opened_file_path": "/home/rdanf0/Documents/Install_Graphviz_Fed34_For_PhpStorm_PlantUML_plugin_to_work_2022-07-01_12-26-47.png",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "project.propVCSSupport.Mappings",
     "vue.rearranger.settings.migration": "true"
@@ -52,7 +55,7 @@
       <workItem from="1656667440245" duration="1390000" />
       <workItem from="1656670298159" duration="544000" />
       <workItem from="1656670863346" duration="526000" />
-      <workItem from="1656671415142" duration="1828000" />
+      <workItem from="1656671415142" duration="2130000" />
     </task>
     <task id="LOCAL-00001" summary="Directory renamed ( always complicated after... )">
       <created>1656673252461</created>
@@ -75,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656673352996</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Screenshot of install on fedora 35 for plantuml integration plugin to work properly ! (in Doc subdirectory )">
+      <created>1656673982645</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1656673982645</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,6 +107,7 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="Directory renamed ( always complicated after... )" />
-    <option name="LAST_COMMIT_MESSAGE" value="Directory renamed ( always complicated after... )" />
+    <MESSAGE value="Screenshot of install on fedora 35 for plantuml integration plugin to work properly ! (in Doc subdirectory )" />
+    <option name="LAST_COMMIT_MESSAGE" value="Screenshot of install on fedora 35 for plantuml integration plugin to work properly ! (in Doc subdirectory )" />
   </component>
 </project>
