@@ -3,7 +3,11 @@
 
 abstract class AbstractList
 abstract AbstractCollection
-interface List
+interface List {
+    - JumpitBool
+    + Jump("Ouaf !") : void
+    }
+
 interface Collection {
     + publicAttribute
     - privateAttribute
