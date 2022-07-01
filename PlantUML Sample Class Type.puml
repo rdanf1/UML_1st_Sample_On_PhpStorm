@@ -1,5 +1,5 @@
 @startuml
-'https://plantuml.com/class-diagram test ssh git
+'https://plantuml.com/class-diagram test .gitignore
 
 abstract class AbstractList
 abstract AbstractCollection
