@@ -37,7 +37,7 @@
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/home/rdanf0/PhpstormProjects/PlantUML Sample \"Class\" type file",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -52,7 +52,7 @@
       <workItem from="1656667440245" duration="1390000" />
       <workItem from="1656670298159" duration="544000" />
       <workItem from="1656670863346" duration="526000" />
-      <workItem from="1656671415142" duration="1412000" />
+      <workItem from="1656671415142" duration="1828000" />
     </task>
     <task id="LOCAL-00001" summary="Directory renamed ( always complicated after... )">
       <created>1656673252461</created>
@@ -61,7 +61,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656673252461</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Directory renamed ( always complicated after... )">
+      <created>1656673276108</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656673276109</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Directory renamed ( always complicated after... )">
+      <created>1656673352996</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1656673352996</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
