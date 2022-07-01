@@ -19,6 +19,8 @@ abstract class AbstractList {
 }
 abstract AbstractCollection {
     - addingWhyNotAttribute
+    - ItemComponent : item
+    + __construct(ItemComponent)
 }
 interface List {
     - JumpitBool
