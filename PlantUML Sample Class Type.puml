@@ -1,5 +1,5 @@
 @startuml
-'https://plantuml.com/class-diagram test .gitignore 3ème
+'https://plantuml.com/class-diagram
 
 abstract class AbstractList
 abstract AbstractCollection
